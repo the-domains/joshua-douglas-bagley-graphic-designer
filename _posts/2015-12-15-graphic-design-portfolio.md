@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Joshua Douglas-Bagley Graphic Design Portfolio
-datePublished: '2015-12-25T16:22:20.793Z'
-dateModified: '2015-12-25T16:18:12.810Z'
+datePublished: '2015-12-25T16:28:18.833Z'
+dateModified: '2015-12-25T16:22:20.793Z'
 title: Graphic Design Portfolio
 author: []
 sourcePath: _posts/2015-12-15-graphic-design-portfolio.md
