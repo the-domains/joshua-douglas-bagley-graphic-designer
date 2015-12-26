@@ -1,15 +1,14 @@
 ---
-inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: ''
+inFeed: false
+hasPage: true
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: Joshua Douglas-Bagley Graphic Design Portfolio
-datePublished: '2015-12-25T16:28:18.833Z'
-dateModified: '2015-12-25T16:22:20.793Z'
-title: Graphic Design Portfolio
+description: "A hero graphic used in London City Airport DLR Station for Sky Arts - Neil Gaiman's Likely Stories"
+datePublished: '2015-12-26T18:31:57.544Z'
+dateModified: '2015-12-26T14:58:24.845Z'
+title: DLR Station Poster
 author: []
 sourcePath: _posts/2015-12-15-graphic-design-portfolio.md
 published: true
@@ -19,8 +18,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: dlr-station-poster/index.html
+_type: WebPage
 
 ---
-# Graphic Design Portfolio
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f7ed7d3-b332-4387-8d27-bc0d9f1ef887.jpg)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f7ed7d3-b332-4387-8d27-bc0d9f1ef887.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6c881ca-81cf-40e5-a5ca-9c842d5983a6.jpg)
