@@ -1,40 +1,40 @@
-name: JOSHUA DOUGLAS-BAGLEY / GRAPHIC DESIGNER
 favicon: null
-layout_spectrum: 0.51287
-typography_spectrum: 0.74619
+name: JOSHUA DOUGLAS-BAGLEY / GRAPHIC DESIGNER
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+    permalink:
+      path: '/:title/'
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0
+  lightness: 0
   brandColors:
     - '#070908'
     - '#0c4651'
     - '#403f2d'
     - '#4f7675'
     - '#69a59d'
-  brandStrength: 0
-  lightness: 1
-  saturation: 1
   rhythmicContrast: 0
-purpose: []
+typography_spectrum: 0.6827957
+layout_spectrum: 0.2114695
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
